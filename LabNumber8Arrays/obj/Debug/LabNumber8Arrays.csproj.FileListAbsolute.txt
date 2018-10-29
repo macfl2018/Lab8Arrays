@@ -1,0 +1,7 @@
+C:\Users\AugustLabTop\source\repos\LabNumber8Arrays\LabNumber8Arrays\bin\Debug\LabNumber8Arrays.exe.config
+C:\Users\AugustLabTop\source\repos\LabNumber8Arrays\LabNumber8Arrays\bin\Debug\LabNumber8Arrays.exe
+C:\Users\AugustLabTop\source\repos\LabNumber8Arrays\LabNumber8Arrays\bin\Debug\LabNumber8Arrays.pdb
+C:\Users\AugustLabTop\source\repos\LabNumber8Arrays\LabNumber8Arrays\obj\Debug\LabNumber8Arrays.csprojAssemblyReference.cache
+C:\Users\AugustLabTop\source\repos\LabNumber8Arrays\LabNumber8Arrays\obj\Debug\LabNumber8Arrays.csproj.CoreCompileInputs.cache
+C:\Users\AugustLabTop\source\repos\LabNumber8Arrays\LabNumber8Arrays\obj\Debug\LabNumber8Arrays.exe
+C:\Users\AugustLabTop\source\repos\LabNumber8Arrays\LabNumber8Arrays\obj\Debug\LabNumber8Arrays.pdb
